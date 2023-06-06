@@ -1,0 +1,4 @@
+---
+share: true
+---
+> *Ngoài để an ninh gia đình, ngừa trộm cắp, cháy nổ rò rỉ ; - Phát hiện mình để quên đồ đạc ở đâu lúc mấy giờ để tìm lại, biết đèn, quạt đã tắt chưa ; - Giám sát tình trạng sức khỏe của ông nội Thảo một cách dễ dàng ; thì còn [[Thảo là cô giáo với tính cách trẻ con|để kiểm soát Thảo]]: lắp camera trong phòng để giám sát hoạt động của Thảo trong suốt ngày. Cũng là giúp gia đình đảm bảo rằng Thảo đang được chăm sóc đúng cách. Ko [[../../../1 Thông tin thân chủ/Hành vi/Uống cồn|Uống cồn]], [[Người gây tổn thương khi thấy sự tự hại của mình sẽ ngừng đánh mình|cắt tay]]. Cuối cùng là để ghi lại những khoảnh khắc quan trọng, một vài kỷ niệm đáng nhớ trong ngôi nhà đầy ấm áp.*

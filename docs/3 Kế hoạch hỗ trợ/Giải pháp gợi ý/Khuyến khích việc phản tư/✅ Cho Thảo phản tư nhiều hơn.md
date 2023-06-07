@@ -1,0 +1,6 @@
+---
+share: true
+---
+Hệ thống phản tư của Thảo đã luôn làm Thảo liên tục phản tư.
+
+Do việc đó nên [[../../../1 Thông tin thân chủ/Quan điểm, thái độ, nguyên tắc sống, điều mình thấy hoặc cảm nhận/Phản tư/Cảm thấy bản thân mình luôn phản tư 20230324|Cảm thấy bản thân mình luôn phản tư 20230324]] và đã quá thừa thải khi phản tư. Do [[../../../1 Thông tin thân chủ/Quan điểm, thái độ, nguyên tắc sống, điều mình thấy hoặc cảm nhận/Phản tư/Sự phản tư trong Thảo không đi theo hướng tốt, mà là ngược lại với điều họ được bênh, theo quan điểm của Thảo|Sự phản tư trong Thảo không đi theo hướng tốt, mà là ngược lại với điều họ được bênh, theo quan điểm của Thảo]] bên trong Thảo nên kể cả khi Thảo đã phản tư rất nhiều đáp án, chúng ta sẽ thấy Thảo thực sự phản tư nhiều và mình cảm giác phải rất khó khăn để làm được điều đó nhưng đối với Thảo, đó là điều bình thường, Thảo không gặp khó khăn trong việc phản tư. Nhưng do sự [[../../../1 Thông tin thân chủ/Khó khăn/Tâm lý/Cường điệu hoá|Cường điệu hoá]] bên trong, nên Thảo vẫn chưa tìm thấy được nhiều đáp án tốt hơn, và chưa tìm ra đáp án đúng nhất.

@@ -1,0 +1,21 @@
+---
+share: true
+tags:
+  - kechuyen
+---
+
+Khái niệm :: [[../../Từ điển/Tiêu cực/Thổ huyết|Thổ huyết]]
+
+Nó cần người khác thổ huyết cho nó, nhưng sự thổ huyết đó phải là theo định nghĩa của nó chứ ko phải của người đang thổ huyết
+
+Anh nghĩ sao nếu là vậy? Và anh nghĩ sao nếu ko là vậy?
+
+thì anh nghĩ đây là sự áp đặt của nó thôi. Nó không chấp nhận được định nghĩa của người khác, mà luôn buộc người khác phải theo định nghĩa của mình. Nhưng trong mắt nó, người khác lại không chấp nhận định nghĩa của nó, mà luôn buộc nó phải theo định nghĩa của họ
+
+Anh chưa thấy được cách lý giải nào khác ngoài cái này
+
+mà cái này thì thực ra cũng không trách được nó. Vì rồi thì ai cũng vậy thôi
+
+mọi người ko vì chuyện này mà xem mình là rác hay uống cồn, nhưng việc nó vì chuyện này mà nó xem mình là rác hay uống cồn anh cũng thấy ko có gì là khó hiểu
+
+#kechuyen

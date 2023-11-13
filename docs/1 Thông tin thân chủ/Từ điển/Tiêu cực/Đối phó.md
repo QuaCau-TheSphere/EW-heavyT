@@ -1,7 +1,11 @@
 ---
 share: true
 ---
-- [[../../Quan điểm, thái độ, nguyên tắc sống, điều mình thấy hoặc cảm nhận/Đối phó không phải là xấu|Đối phó không phải là xấu]]
-- [[../../Quan điểm, thái độ, nguyên tắc sống, điều mình thấy hoặc cảm nhận/Đối phó, học vẹt hoặc chỉ bắt chước thì sớm muộn sẽ bỏ không làm nữa|Đối phó, học vẹt hoặc chỉ bắt chước thì sớm muộn sẽ bỏ không làm nữa]]
+- [Nói ra thì là ăn xin họ làm chứ không phải là tự nguyện nữa](../../H%C3%A0nh%20vi/N%C3%B3i%20ra%20th%C3%AC%20l%C3%A0%20%C4%83n%20xin%20h%E1%BB%8D%20l%C3%A0m%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20t%E1%BB%B1%20nguy%E1%BB%87n%20n%E1%BB%AFa.md)
+- [Nói ra thì là ép buộc họ làm chứ không phải là tự nguyện nữa](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%C3%B3i%20ra%20th%C3%AC%20l%C3%A0%20%C3%A9p%20bu%E1%BB%99c%20h%E1%BB%8D%20l%C3%A0m%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20t%E1%BB%B1%20nguy%E1%BB%87n%20n%E1%BB%AFa.md)
+- [Đối phó chỉ xảy ra khi có chuyện tệ, ko phải khi vui vẻ](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/%C4%90%E1%BB%91i%20ph%C3%B3%20ch%E1%BB%89%20x%E1%BA%A3y%20ra%20khi%20c%C3%B3%20chuy%E1%BB%87n%20t%E1%BB%87,%20ko%20ph%E1%BA%A3i%20khi%20vui%20v%E1%BA%BB.md)
+- [Đối phó không phải là xấu](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/%C4%90%E1%BB%91i%20ph%C3%B3%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0%20x%E1%BA%A5u.md)
+- [Đối phó, học vẹt hoặc chỉ bắt chước thì sớm muộn sẽ bỏ không làm nữa](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/%C4%90%E1%BB%91i%20ph%C3%B3,%20h%E1%BB%8Dc%20v%E1%BA%B9t%20ho%E1%BA%B7c%20ch%E1%BB%89%20b%E1%BA%AFt%20ch%C6%B0%E1%BB%9Bc%20th%C3%AC%20s%E1%BB%9Bm%20mu%E1%BB%99n%20s%E1%BA%BD%20b%E1%BB%8F%20kh%C3%B4ng%20l%C3%A0m%20n%E1%BB%AFa.md)
 
-Câu hỏi :: Đối phó, lươn lẹo, chống chế có khác nhau không?, Nếu một người nói dối mình với lý do đối phó không phải là xấu thì cậu nghĩ sao?
+Câu hỏi:: Đối phó, lươn lẹo, chống chế, chống đối có khác nhau không?, Nếu một người nói dối mình với lý do đối phó không phải là xấu thì cậu nghĩ sao?
+[Bắt ép, ép buộc, ra lệnh](./B%E1%BA%AFt%20%C3%A9p,%20%C3%A9p%20bu%E1%BB%99c,%20ra%20l%E1%BB%87nh.md), [Chống đối](./Ch%E1%BB%91ng%20%C4%91%E1%BB%91i.md)

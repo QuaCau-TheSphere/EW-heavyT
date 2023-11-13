@@ -9,7 +9,7 @@ share: true
 
 > [! Phương hướng]-
 > - **Trị liệu nhận thức hành vi (CBT):** 
-> ![[../../../../assets/attachments/Pasted image 20230403173053.png|Pasted image 20230403173053.png]]
+> ![Pasted image 20230403173053.png](../../../../assets/attachments/Pasted%20image%2020230403173053.png)
 > - **Trị liệu bằng thuốc:** Thuốc kháng loạn thần như *fluoxetine, fluvoxamine, sertraline, paroxetine, clomipramine*, Thuốc an thần, Thuốc giảm triệu chứng như *benzodiazepines, tricyclic antidepressants và antipsychotics* **nhưng cần được kê đơn và sử dụng dưới sự giám sát của bác sĩ**. 
 > - **Trị liệu tâm lý:** Bao gồm các phương pháp như *trị liệu hành vi kỹ năng xã hội, trị liệu giảm stress, trị liệu tập trung vào giải quyết vấn đề, trị liệu hướng nội và trị liệu tâm lý động lực*.
 > - **Gia đình & bạn bè:** Người thân & bạn bè có thể giúp đỡ bằng cách cung cấp sự hỗ trợ tinh thần, khuyến khích và tạo môi trường thoải mái cho người bệnh.

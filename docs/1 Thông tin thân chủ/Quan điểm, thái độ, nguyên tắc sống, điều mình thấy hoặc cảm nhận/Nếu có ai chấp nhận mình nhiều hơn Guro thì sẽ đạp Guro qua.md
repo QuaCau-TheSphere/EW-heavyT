@@ -7,7 +7,7 @@ Cậu vừa lòng chưa?
 
 Chính cậu đã nói nếu làm như vậy để cứu mạng tớ mà không có ai thế chỗ cậu thì cậu sẽ làm mà?
 
-Lý do :: 
+Lý do:: 
 
 Hệ quả của vấn đề này:
 
@@ -15,4 +15,5 @@ Hệ quả của vấn đề này:
 %%
 Giải pháp gợi ý:: 
 %%
+
 

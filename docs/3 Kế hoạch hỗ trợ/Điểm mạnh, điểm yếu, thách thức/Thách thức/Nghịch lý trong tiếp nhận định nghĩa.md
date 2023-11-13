@@ -1,4 +1,4 @@
 ---
 share: true
 ---
-![[Người ngoài thấy ai cũng đã thổ huyết giúp Thảo|Người ngoài thấy ai cũng đã thổ huyết giúp Thảo]]
+![Người ngoài thấy ai cũng đã thổ huyết giúp Thảo](../../../1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/C%C3%A1c%20v%C3%B2ng%20lu%E1%BA%A9n%20qu%E1%BA%A9n/Ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i/Ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20th%E1%BA%A5y%20ai%20c%C5%A9ng%20%C4%91%C3%A3%20th%E1%BB%95%20huy%E1%BA%BFt%20gi%C3%BAp%20Th%E1%BA%A3o.md)

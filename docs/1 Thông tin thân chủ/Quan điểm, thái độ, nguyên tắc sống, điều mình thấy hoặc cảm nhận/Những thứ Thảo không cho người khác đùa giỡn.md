@@ -19,7 +19,7 @@ VD: "Từng bị 1 thằng ko não (ko phải Kame) tán kiểu: Anh thik uống
 
 Thà nói gì đó smart smart xí => % have sex còn cao hơn cái này, thiệt lun. 😂
 
-Lý do :: 
+Lý do:: 
 
 Hệ quả của vấn đề này:
 

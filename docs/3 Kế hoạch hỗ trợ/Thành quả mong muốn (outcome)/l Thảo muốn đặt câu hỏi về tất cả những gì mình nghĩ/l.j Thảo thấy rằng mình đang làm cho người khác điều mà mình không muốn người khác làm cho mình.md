@@ -2,14 +2,14 @@
 share: true
 ---
 Phục vụ cho mục tiêu:
-- [[./l Thảo muốn đặt câu hỏi về tất cả những gì mình nghĩ|l Thảo muốn đặt câu hỏi về tất cả những gì mình nghĩ]]
+- [l Thảo muốn đặt câu hỏi về tất cả những gì mình nghĩ](./index.md)
 
 Phục vụ cho những nhu cầu này của mình:
 
 
-Mục tiêu :: 
+Mục tiêu:: 
 Thành quả hỗ trợ::
-Ý tưởng tốt hơn :: 
-Hoạt động :: 
+Ý tưởng tốt hơn:: 
+Hoạt động:: 
 
-Điểm mạnh ::
+Điểm mạnh::

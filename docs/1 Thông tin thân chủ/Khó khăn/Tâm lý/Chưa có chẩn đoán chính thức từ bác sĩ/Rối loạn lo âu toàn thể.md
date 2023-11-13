@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-![[../../../../assets/attachments/Pasted image 20230403163954.png|Pasted image 20230403163954.png]]
+![Pasted image 20230403163954.png](../../../../assets/attachments/Pasted%20image%2020230403163954.png)
 
 > [!Info ]+ Khái niệm:
 > **Rối loạn lo âu toàn thể (GAD - Generalized Anxiety Disorder)** là một loại rối loạn lo âu mà người bệnh có triệu chứng lo lắng, căng thẳng và bất an trong cuộc sống hàng ngày. *Người bệnh có thể không tập trung vào một sự kiện hoặc tình huống cụ thể, mà thay vào đó là lo lắng về nhiều vấn đề khác nhau trong cuộc sống, từ công việc đến tình bạn, gia đình, hoặc sức khỏe.* Rối loạn lo âu toàn thể có thể gây ra một loạt các triệu chứng khác nhau, bao gồm mất ngủ, mệt mỏi, căng thẳng cơ, đau đầu, lo lắng quá mức, khó tập trung và giảm sự kiên nhẫn.

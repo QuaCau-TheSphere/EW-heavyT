@@ -4,9 +4,9 @@ tags:
   - tt-⚪_chưaxácnhận
 ---
 
-Khái niệm :: 
-Lý do :: 
-Trạng thái :: #tt-⚪/chưaxácnhận
+Khái niệm:: 
+Lý do:: 
+Trạng thái:: #tt-⚪/chưaxácnhận
 
 Hệ quả của vấn đề này:
 

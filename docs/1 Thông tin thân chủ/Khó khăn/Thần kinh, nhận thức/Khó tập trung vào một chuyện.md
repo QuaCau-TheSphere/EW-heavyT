@@ -13,4 +13,4 @@ Nếu mà ép bản thân rep tn suốt, ko dc làm gì khác. Thì sau 30p, s�
 
 => Nên từ nhỏ, deal vz nó bằng cách: 1 lúc làm rất nhìu chuyện. Nếu làm 1 lúc nhìu chuyện => sự focus rất tốt. Khi nt, tạm pause => ngó wa chó => rep típ => vẫn nhớ và theo kịp dc mạch story, link đc.
 
-[[./MultiTasking|MultiTasking]]
+[MultiTasking](./MultiTasking.md)

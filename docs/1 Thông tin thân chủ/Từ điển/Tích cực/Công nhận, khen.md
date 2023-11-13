@@ -1,0 +1,12 @@
+---
+share: true
+---
+- [Người ngoài thấy không có gì phải khen cả](../../C%C3%A1c%20v%C3%B2ng%20lu%E1%BA%A9n%20qu%E1%BA%A9n/Ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i/Ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20th%E1%BA%A5y%20kh%C3%B4ng%20c%C3%B3%20g%C3%AC%20ph%E1%BA%A3i%20khen%20c%E1%BA%A3.md)
+- [Cư xử tử tế là ưu tiên Thảo, công nhận sự nỗ lực của Thảo](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/C%C6%B0%20x%E1%BB%AD%20t%E1%BB%AD%20t%E1%BA%BF%20l%C3%A0%20%C6%B0u%20ti%C3%AAn%20Th%E1%BA%A3o,%20c%C3%B4ng%20nh%E1%BA%ADn%20s%E1%BB%B1%20n%E1%BB%97%20l%E1%BB%B1c%20c%E1%BB%A7a%20Th%E1%BA%A3o.md)
+- [Thấy làm cái gì cũng không được công nhận](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/C%E1%BA%A3m%20nh%E1%BA%ADn%20v%E1%BB%81%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/Th%E1%BA%A5y%20l%C3%A0m%20c%C3%A1i%20g%C3%AC%20c%C5%A9ng%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20c%C3%B4ng%20nh%E1%BA%ADn.md)
+- [Thấy mình đã nỗ lực đến ói máu nhưng lại không được coi trọng](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/C%E1%BA%A3m%20nh%E1%BA%ADn%20v%E1%BB%81%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/Th%E1%BA%A5y%20m%C3%ACnh%20%C4%91%C3%A3%20n%E1%BB%97%20l%E1%BB%B1c%20%C4%91%E1%BA%BFn%20%C3%B3i%20m%C3%A1u%20nh%C6%B0ng%20l%E1%BA%A1i%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20coi%20tr%E1%BB%8Dng.md)
+- [Nếu sự nỗ lực của mình không được ai công nhận là vô nghĩa](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%E1%BA%BFu%20s%E1%BB%B1%20n%E1%BB%97%20l%E1%BB%B1c%20c%E1%BB%A7a%20m%C3%ACnh%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20ai%20c%C3%B4ng%20nh%E1%BA%ADn%20l%C3%A0%20v%C3%B4%20ngh%C4%A9a.md)
+
+# Các câu hỏi
+
+Câu hỏi:: Nếu tớ không công nhận cậu về mặt ngôn ngữ nhưng ai cũng khen thì cậu thấy sao?

@@ -8,11 +8,11 @@ tags:
 %%
 #file/thành-quả
 %%
-Trạng thái :: null
-Độ cấp thiết :: #đct/🔥
+Trạng thái:: null
+Độ cấp thiết:: #đct/🔥
 
 Phục vụ cho thành quả:
 
 Thành quả cần có:: 
 
-Thành phẩm ::
+Thành phẩm::

@@ -1,4 +1,5 @@
 .vscode/settings.json
 desktop.ini
-Pipfile
-Pipfile.lock
+site
+.cache/
+__pycache__

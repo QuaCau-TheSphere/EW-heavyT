@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[./Hăm doạ là khi làm cái họ sợ|Hăm doạ là khi làm cái họ sợ]], mà [[./Thấy mọi người không sợ mình chết|Thấy mọi người không sợ mình chết]]
+[Hăm doạ là khi làm cái họ sợ](./H%C4%83m%20do%E1%BA%A1%20l%C3%A0%20khi%20l%C3%A0m%20c%C3%A1i%20h%E1%BB%8D%20s%E1%BB%A3.md), mà [Thấy mọi người không sợ mình chết](./Th%E1%BA%A5y%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20s%E1%BB%A3%20m%C3%ACnh%20ch%E1%BA%BFt.md)
 Không muốn hết đau, chỉ muốn giảm tần suất đau. Một năm đau 1 lần là được
 
 Bận nghĩa là người khác thấy không coi mình có giá trị

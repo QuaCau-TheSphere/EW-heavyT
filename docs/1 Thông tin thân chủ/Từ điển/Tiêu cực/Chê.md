@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Lý do :: <% tp.file.cursor() %>
+Lý do:: <% tp.file.cursor() %>
 
 Hệ quả của vấn đề này:
 
@@ -9,4 +9,5 @@ Hệ quả của vấn đề này:
 %%
 Giải pháp gợi ý:: 
 %%
+
 

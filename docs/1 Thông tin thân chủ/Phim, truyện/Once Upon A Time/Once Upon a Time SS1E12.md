@@ -7,7 +7,7 @@ Sự kiện:
 -   Belle và Mr. Gold bắt đầu hình thành mối quan hệ, nhưng mọi thứ trở nên phức tạp khi Regina phát hiện ra và cố gắng loại bỏ Belle.
 -   Được tiết lộ rằng Belle thực sự đến từ thế giới cổ tích và đã bị Regina giam giữ trong một tòa tháp.
 
-Câu hỏi :: 
+Câu hỏi:: 
 
 1.  Mr. Gold thấy gì ở Belle khiến ông quan tâm đến cô ấy?
 2.  Regina đã làm gì để loại bỏ Belle?

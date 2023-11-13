@@ -1,5 +1,5 @@
 ---
 share: true
 ---
-Điểm yếu :: 
+Điểm yếu:: 
 - Nếu sơ xuất, Thảo sẽ tìm cách tự hại

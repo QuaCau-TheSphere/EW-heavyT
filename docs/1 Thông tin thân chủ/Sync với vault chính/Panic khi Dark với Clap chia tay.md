@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Lý do :: <% tp.file.cursor() %>
+Lý do:: <% tp.file.cursor() %>
 
 Hệ quả của vấn đề này:
 

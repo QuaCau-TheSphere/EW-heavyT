@@ -1,8 +1,7 @@
 ---
 share: true
 ---
-Lý do :: <% tp.file.cursor() %>
-
+Khái niệm:: [Phản tư](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ph%E1%BA%A3n%20t%C6%B0.md), [Bênh](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/T%C3%ADch%20c%E1%BB%B1c/B%C3%AAnh.md)
 Hệ quả của vấn đề này:
 
 

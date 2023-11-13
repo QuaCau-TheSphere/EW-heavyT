@@ -1,5 +1,10 @@
 {% extends "base.html" %}
+{% block scripts %}
 
+
+{{ super() }}
+
+{% endblock %}
 {% block extrahead %}
   <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
   <script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
@@ -21,8 +26,8 @@
   {% include "partials/meta.html" %}
 {% endblock %}
 {% block content %}
+
   {{ super() }}
-  {% include "partials/css_class.html" %}
   {% include "partials/comments.html" %}
   {% set pg_title = 'title' | value_in_frontmatter(page.meta) %}
   {% set pg_title = page.meta.title if pg_title is not none else page.title %}

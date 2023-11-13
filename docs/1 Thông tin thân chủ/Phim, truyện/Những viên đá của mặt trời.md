@@ -2,7 +2,7 @@
 share: true
 ---
 Tác giả:: Zelda
-Nguồn :: báo Hoa Học Trò
+Nguồn:: báo Hoa Học Trò
 
 # 1. Ống kính kiên nhẫn
 

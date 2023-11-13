@@ -5,7 +5,7 @@ tags:
   - tt-⚪_chưaxácnhận
 ---
 
-Lý do :: Do Thảo không tin được là bạn sẽ không bỏ Thảo, nên việc luôn lo cho bạn sẽ cho Thảo sự yên tâm rằng mình đã cố hết sức. Nếu bạn vẫn bỏ thì ít nhất cũng không phải là lỗi từ phía mình nữa.
+Lý do:: Do Thảo không tin được là bạn sẽ không bỏ Thảo, nên việc luôn lo cho bạn sẽ cho Thảo sự yên tâm rằng mình đã cố hết sức. Nếu bạn vẫn bỏ thì ít nhất cũng không phải là lỗi từ phía mình nữa.
 
 VD: Guro sẽ bỏ mình vì mình làm Guro stress rụng tóc hói đầu => Well you có 1 chai dầu gội trị hói rồi đó => dù gội xong Guro ko mọc tóc + có thể bỏ nhưng cũng đã do the best => an tâm phần nào.
 
@@ -22,7 +22,7 @@ Vd test:
 Thì nó cũng sẽ an tâm: Mình đã do the best, dang nắng tốn time tốn tiền tốn tâm đi kiếm…
 
 #kechuyen 
-Trạng thái :: #tt-⚪/chưaxácnhận
+Trạng thái:: #tt-⚪/chưaxácnhận
 
 Hệ quả của vấn đề này:
 
@@ -30,4 +30,5 @@ Hệ quả của vấn đề này:
 %%
 Giải pháp gợi ý:: 
 %%
+
 

@@ -1,13 +1,14 @@
 ---
 share: true
 ---
-Lý do :: 
+Lý do:: 
 
 Hệ quả của vấn đề này:
-- [[../../Các vòng luẩn quẩn/Tiếp nhận của người ngoài/Người ngoài thấy Thảo sống lệ thuộc|Người ngoài thấy Thảo sống lệ thuộc]]
+- [Người ngoài thấy Thảo sống lệ thuộc](../../C%C3%A1c%20v%C3%B2ng%20lu%E1%BA%A9n%20qu%E1%BA%A9n/Ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i/Ng%C6%B0%E1%BB%9Di%20ngo%C3%A0i%20th%E1%BA%A5y%20Th%E1%BA%A3o%20s%E1%BB%91ng%20l%E1%BB%87%20thu%E1%BB%99c.md)
 
 
 %%
 Giải pháp gợi ý:: 
 %%
+
 

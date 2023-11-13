@@ -4,11 +4,11 @@ tags:
   - kechuyen
 ---
 
-Khái niệm :: [[../Từ điển/Tích cực/Bênh|Bênh]], [[../Từ điển/Trung tính/Công bằng, bất công|Công bằng, bất công]]
+Khái niệm:: [Bênh](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/T%C3%ADch%20c%E1%BB%B1c/B%C3%AAnh.md), [Công bằng, bất công](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/C%C3%B4ng%20b%E1%BA%B1ng,%20b%E1%BA%A5t%20c%C3%B4ng.md)
 
-Lý do :: [[../Sự kiện/Meo bị ông nội đánh và Meo được Kame bảo vệ|Meo bị ông nội đánh và Meo được Kame bảo vệ]], [[../Sự kiện/Kame bênh Meo trong vụ bạo lực học đường và vụ con XN, giúp Meo tránh những tình huống nguy hiểm|Kame bênh Meo trong vụ bạo lực học đường và vụ con XN, giúp Meo tránh những tình huống nguy hiểm]], [[Meo có quy tắc là nếu ai bênh họ thì họ sẽ suy nghĩ lại cho kẻ thù, nếu ai phụ họ xử kẻ thù thì họ sẽ không cần phải xử]], [[Meo cần được nuông chiều và đồng cảm, nhưng gia đình và người xung quanh thường chỉ cho rằng lỗi tại Meo]], [[Meo khao khát có một người có tính cách công bằng, kiếm cách để cả nhà Kame không còn ai mất danh dự để đi làm]]
+Lý do:: [Meo bị ông nội đánh và Meo được Kame bảo vệ](../S%E1%BB%B1%20ki%E1%BB%87n/Meo%20b%E1%BB%8B%20%C3%B4ng%20n%E1%BB%99i%20%C4%91%C3%A1nh%20v%C3%A0%20Meo%20%C4%91%C6%B0%E1%BB%A3c%20Kame%20b%E1%BA%A3o%20v%E1%BB%87.md), [Kame bênh Meo trong vụ bạo lực học đường và vụ con XN, giúp Meo tránh những tình huống nguy hiểm](../S%E1%BB%B1%20ki%E1%BB%87n/Kame%20b%C3%AAnh%20Meo%20trong%20v%E1%BB%A5%20b%E1%BA%A1o%20l%E1%BB%B1c%20h%E1%BB%8Dc%20%C4%91%C6%B0%E1%BB%9Dng%20v%C3%A0%20v%E1%BB%A5%20con%20XN,%20gi%C3%BAp%20Meo%20tr%C3%A1nh%20nh%E1%BB%AFng%20t%C3%ACnh%20hu%E1%BB%91ng%20nguy%20hi%E1%BB%83m.md), [Meo có quy tắc là nếu ai bênh họ thì họ sẽ suy nghĩ lại cho kẻ thù, nếu ai phụ họ xử kẻ thù thì họ sẽ không cần phải xử](Meo%20c%C3%B3%20quy%20t%E1%BA%AFc%20l%C3%A0%20n%E1%BA%BFu%20ai%20b%C3%AAnh%20h%E1%BB%8D%20th%C3%AC%20h%E1%BB%8D%20s%E1%BA%BD%20suy%20ngh%C4%A9%20l%E1%BA%A1i%20cho%20k%E1%BA%BB%20th%C3%B9,%20n%E1%BA%BFu%20ai%20ph%E1%BB%A5%20h%E1%BB%8D%20x%E1%BB%AD%20k%E1%BA%BB%20th%C3%B9%20th%C3%AC%20h%E1%BB%8D%20s%E1%BA%BD%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BA%A3i%20x%E1%BB%AD.md), [Meo cần được nuông chiều và đồng cảm, nhưng gia đình và người xung quanh thường chỉ cho rằng lỗi tại Meo](Meo%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20nu%C3%B4ng%20chi%E1%BB%81u%20v%C3%A0%20%C4%91%E1%BB%93ng%20c%E1%BA%A3m,%20nh%C6%B0ng%20gia%20%C4%91%C3%ACnh%20v%C3%A0%20ng%C6%B0%E1%BB%9Di%20xung%20quanh%20th%C6%B0%E1%BB%9Dng%20ch%E1%BB%89%20cho%20r%E1%BA%B1ng%20l%E1%BB%97i%20t%E1%BA%A1i%20Meo.md), [Meo khao khát có một người có tính cách công bằng, kiếm cách để cả nhà Kame không còn ai mất danh dự để đi làm](Meo%20khao%20kh%C3%A1t%20c%C3%B3%20m%E1%BB%99t%20ng%C6%B0%E1%BB%9Di%20c%C3%B3%20t%C3%ADnh%20c%C3%A1ch%20c%C3%B4ng%20b%E1%BA%B1ng,%20ki%E1%BA%BFm%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%E1%BA%A3%20nh%C3%A0%20Kame%20kh%C3%B4ng%20c%C3%B2n%20ai%20m%E1%BA%A5t%20danh%20d%E1%BB%B1%20%C4%91%E1%BB%83%20%C4%91i%20l%C3%A0m.md)
 
-[[./Bênh là bảo vệ dù cho người được bênh sai|Bênh là bảo vệ dù cho người được bênh sai]]
+[Bênh là bảo vệ dù cho người được bênh sai](./B%C3%AAnh%20l%C3%A0%20b%E1%BA%A3o%20v%E1%BB%87%20d%C3%B9%20cho%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20b%C3%AAnh%20sai.md)
 
 #kechuyen 
 
@@ -22,7 +22,7 @@ Tuy lâu lâu còn ám ảnh nhưng ítm
 Rule: ngươi bênh Meo thì Meo sẽ suy nghĩ lại cho kẻ thù, ngươi phụ Meo xử kẻ thù thì Meo sẽ thấy thôi khỏi cần xử nữa luôn (tuy chưa xử xong). Ngược lại, ngươi bênh kẻ thù của Meo thì nó càng thêm điên tiết buff tội ác kẻ thù lên.
 Giờ nếu có ai làm quá lên đòi giết bà bác sĩ thay Meo => chắc nó cản + tha luôn cho bà bác sĩ. 🙃
 That is.
-[[./Luôn cần sự nuông chiều|Luôn cần sự nuông chiều]].
+[Tin rằng mình cần sự nuông chiều](./Tin%20r%E1%BA%B1ng%20m%C3%ACnh%20c%E1%BA%A7n%20s%E1%BB%B1%20nu%C3%B4ng%20chi%E1%BB%81u.md).
 Ta biết ngươi khó chấp nhận chuyện đó.
 Nhưng chỉ như vậy mới đem cho Meo kết quả tích cực và tốt thật sự.
 Hồi mẫu giáo Meo bị mấy bà cô nhà trẻ đánh sml luôn vụ thuận tay trái.
@@ -39,7 +39,7 @@ Ai cũng: "lỗi tại con mới thế".
 Nên nó suffer từ nhỏ rồi.
 Nó khao khát được nuông chiều.
 Ông nội là người duy nhất chiều nó.
-Nhưng [[./Cảm nhận về người khác/Thấy Cách ông nội bênh, chiều quá sai trái vô lý|Thấy Cách ông nội bênh, chiều quá sai trái vô lý]].
+Nhưng [Thấy cách ông nội bênh, chiều quá sai trái vô lý](./C%E1%BA%A3m%20nh%E1%BA%ADn%20v%E1%BB%81%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/Th%E1%BA%A5y%20c%C3%A1ch%20%C3%B4ng%20n%E1%BB%99i%20b%C3%AAnh,%20chi%E1%BB%81u%20qu%C3%A1%20sai%20tr%C3%A1i%20v%C3%B4%20l%C3%BD.md).
 Nó ko muốn có 1 hung thần mà sẵn sàng đi giết người vì nó.
 Nó cũng ko muốn 1 hung thần kiểu ông nội, đi chửi thề văng tục xúc phạm nặng người khác vì nó.
 Nó khao khát có hung thần như Hacker, 1 người công bằng công lý hệt như nó. 1 người sẽ đi kiếm cách để cả nhà Kame ko có ai còn danh dự để đi làm.

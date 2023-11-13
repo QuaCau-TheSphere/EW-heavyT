@@ -1,6 +1,7 @@
 ---
 share: true
 ---
-Khái niệm :: [[./Rác|Rác]], [[./Phiền|Phiền]]
+Khái niệm:: [Rác](./R%C3%A1c.md), [Phiền](./Phi%E1%BB%81n.md)
 
-- [[./Cấm|Cấm]]
+- [Cấm](./C%E1%BA%A5m.md)
+

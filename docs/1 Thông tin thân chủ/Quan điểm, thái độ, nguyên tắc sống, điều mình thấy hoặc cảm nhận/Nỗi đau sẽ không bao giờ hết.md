@@ -4,11 +4,11 @@ tags:
   - kechuyen
 ---
 
-Khái niệm :: [[../Từ điển/Trung tính/Đau, có hại|Đau, có hại]]
-Lý do :: [[../Khó khăn/Ảo giác/Ảo giác bị đánh xảy ra gần như mọi lúc|Ảo giác bị đánh xảy ra gần như mọi lúc]]
+Khái niệm:: [Đau, có hại, tổn thương](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/%C4%90au,%20c%C3%B3%20h%E1%BA%A1i,%20t%E1%BB%95n%20th%C6%B0%C6%A1ng.md)
+Lý do:: [Ảo giác bị đánh xảy ra gần như mọi lúc](../Kh%C3%B3%20kh%C4%83n/%E1%BA%A2o%20gi%C3%A1c/%E1%BA%A2o%20gi%C3%A1c%20b%E1%BB%8B%20%C4%91%C3%A1nh%20x%E1%BA%A3y%20ra%20g%E1%BA%A7n%20nh%C6%B0%20m%E1%BB%8Di%20l%C3%BAc.md)
 
 Hệ quả của vấn đề này:
-- [[../Sync với vault chính/Cảm nhận/Tin rằng mình là người què|Tin rằng mình là người què]]
+- [Tin rằng mình là người què](../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/C%E1%BA%A3m%20nh%E1%BA%ADn/Tin%20r%E1%BA%B1ng%20m%C3%ACnh%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20qu%C3%A8.md)
 
 
 %%
@@ -17,7 +17,7 @@ Giải pháp gợi ý::
 
 
 
-Mâu thuẫn với :: 
+Mâu thuẫn với:: 
 
 Giờ nó đi xe ra đường.
 Vd đi xe đạp đi.

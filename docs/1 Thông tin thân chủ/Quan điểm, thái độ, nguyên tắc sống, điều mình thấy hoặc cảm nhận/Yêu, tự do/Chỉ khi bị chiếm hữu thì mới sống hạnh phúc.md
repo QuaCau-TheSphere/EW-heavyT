@@ -4,9 +4,9 @@ tags:
   - kechuyen
 ---
 
-Khái niệm :: [[../../Từ điển/Trung tính/Lồng, áp đặt, tự do|Lồng, áp đặt, tự do]], [[../../Từ điển/Tích cực/Hạnh phúc|Hạnh phúc]], [[../../Từ điển/Trung tính/Yêu người khác|Yêu người khác]]
+Khái niệm:: [Lồng, áp đặt, tự do](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/L%E1%BB%93ng,%20%C3%A1p%20%C4%91%E1%BA%B7t,%20t%E1%BB%B1%20do.md), [Hạnh phúc](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/T%C3%ADch%20c%E1%BB%B1c/H%E1%BA%A1nh%20ph%C3%BAc.md), [Yêu người khác](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Y%C3%AAu%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
 
-Lý do :: [[../Thuộc về nhiều người thì trước sau gì cũng mục nát thành rác|Thuộc về nhiều người thì trước sau gì cũng mục nát thành rác]]
+Lý do:: [Thuộc về nhiều người thì trước sau gì cũng mục nát thành rác](../Thu%E1%BB%99c%20v%E1%BB%81%20nhi%E1%BB%81u%20ng%C6%B0%E1%BB%9Di%20th%C3%AC%20tr%C6%B0%E1%BB%9Bc%20sau%20g%C3%AC%20c%C5%A9ng%20m%E1%BB%A5c%20n%C3%A1t%20th%C3%A0nh%20r%C3%A1c.md)
 
 Hệ quả của vấn đề này:
 

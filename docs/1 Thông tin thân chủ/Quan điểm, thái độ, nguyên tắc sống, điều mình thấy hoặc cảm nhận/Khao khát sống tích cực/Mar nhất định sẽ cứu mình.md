@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Lý do :: 
+Lý do:: 
 
 Hệ quả của vấn đề này:
 

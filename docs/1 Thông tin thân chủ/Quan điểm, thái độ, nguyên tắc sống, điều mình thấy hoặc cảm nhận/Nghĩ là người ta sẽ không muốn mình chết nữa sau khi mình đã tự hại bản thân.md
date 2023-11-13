@@ -4,9 +4,9 @@ tags:
   - tt-⚪_chưaxácnhận
 ---
 
-Khái niệm :: 
-Lý do :: 
-Trạng thái :: #tt-⚪/chưaxácnhận
+Khái niệm:: 
+Lý do:: 
+Trạng thái:: #tt-⚪/chưaxácnhận
 
 Hệ quả của vấn đề này:
 
@@ -23,3 +23,4 @@ Giải thích: Cách rút của họ = việc Thảo tự hại. Biết là Th�
 Thảo nghĩ rằng điều trên sai.
 
 # Các câu hỏi
+

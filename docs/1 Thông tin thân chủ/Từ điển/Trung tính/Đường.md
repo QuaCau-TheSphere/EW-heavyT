@@ -1,16 +1,20 @@
 ---
 share: true
 ---
-- [[../../Hành vi/Nếu không có đường thì sẽ nằm cứng đơ không làm gì được|Nếu không có đường thì sẽ nằm cứng đơ không làm gì được]]
-- [[../../Quan điểm, thái độ, nguyên tắc sống, điều mình thấy hoặc cảm nhận/Vay đường để hoạt động|Vay đường để hoạt động]]
-- [[../../Sync với vault chính/Đường, năng lượng/Có năng lượng chắc chắn sẽ hạnh phúc, nhưng có hạnh phúc chưa chắc có năng lượng|Có năng lượng chắc chắn sẽ hạnh phúc, nhưng có hạnh phúc chưa chắc có năng lượng]]
-- [[../../Sync với vault chính/Đường, năng lượng/Không thường xuyên được sạc năng lượng|Không thường xuyên được sạc năng lượng]]
-- [[../../Sync với vault chính/Đường, năng lượng/Việc nói không cần đường|Việc nói không cần đường]]
-- [[../../Sync với vault chính/Đường, năng lượng/Việc suy nghĩ không cần đường|Việc suy nghĩ không cần đường]]
-- [[../../Sync với vault chính/Đường, năng lượng/Việc suy nghĩ không cần đường, nhưng suy nghĩ logic thì cần đường|Việc suy nghĩ không cần đường, nhưng suy nghĩ logic thì cần đường]]
-- [[../../Sync với vault chính/Đường, năng lượng/Đường là thứ làm mình hạnh phúc và có năng lượng|Đường là thứ làm mình hạnh phúc và có năng lượng]]
-- [[../../Sync với vault chính/Đường, năng lượng/Đường là cách để lý giải vì sao mình được nhận rất nhiều sự quan tâm nhưng rồi vẫn thấy bị bỏ rơi|Đường là cách để lý giải vì sao mình được nhận rất nhiều sự quan tâm nhưng rồi vẫn thấy bị bỏ rơi]]
-- [[./Ngủ không cho đường|Ngủ không cho đường]]
-- [[../../../2 Mối quan hệ/Bạn bè/Iris/Iris không có cơ chế đường|Iris không có cơ chế đường]]
+- [Nếu không có đường thì sẽ nằm cứng đơ không làm gì được](../../H%C3%A0nh%20vi/N%E1%BA%BFu%20kh%C3%B4ng%20c%C3%B3%20%C4%91%C6%B0%E1%BB%9Dng%20th%C3%AC%20s%E1%BA%BD%20n%E1%BA%B1m%20c%E1%BB%A9ng%20%C4%91%C6%A1%20kh%C3%B4ng%20l%C3%A0m%20g%C3%AC%20%C4%91%C6%B0%E1%BB%A3c.md)
+- [Mỗi lần chuẩn bị đi chơi là tốn rất nhiều đường. Nếu cuối cùng bị huỷ thì sẽ vay ngập đầu](../../Kh%C3%B3%20kh%C4%83n/M%E1%BB%97i%20l%E1%BA%A7n%20chu%E1%BA%A9n%20b%E1%BB%8B%20%C4%91i%20ch%C6%A1i%20l%C3%A0%20t%E1%BB%91n%20r%E1%BA%A5t%20nhi%E1%BB%81u%20%C4%91%C6%B0%E1%BB%9Dng.%20N%E1%BA%BFu%20cu%E1%BB%91i%20c%C3%B9ng%20b%E1%BB%8B%20hu%E1%BB%B7%20th%C3%AC%20s%E1%BA%BD%20vay%20ng%E1%BA%ADp%20%C4%91%E1%BA%A7u.md)
+- [Khi panic thì không mất đường](../../Kh%C3%B3%20kh%C4%83n/Th%E1%BB%83%20ch%E1%BA%A5t/Khi%20panic%20th%C3%AC%20kh%C3%B4ng%20m%E1%BA%A5t%20%C4%91%C6%B0%E1%BB%9Dng.md)
+- [Suy nghĩ tiêu cực sẽ lại quay lại. Dù có rất nhiều đường thì cũng chỉ đỡ vào thời điểm đó](../../Kh%C3%B3%20kh%C4%83n/T%C3%A2m%20l%C3%BD/Suy%20ngh%C4%A9%20ti%C3%AAu%20c%E1%BB%B1c%20s%E1%BA%BD%20l%E1%BA%A1i%20quay%20l%E1%BA%A1i.%20D%C3%B9%20c%C3%B3%20r%E1%BA%A5t%20nhi%E1%BB%81u%20%C4%91%C6%B0%E1%BB%9Dng%20th%C3%AC%20c%C5%A9ng%20ch%E1%BB%89%20%C4%91%E1%BB%A1%20v%C3%A0o%20th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20%C4%91%C3%B3.md)
+- [Muốn làm điều mình thích thì phải tốn đường](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Mu%E1%BB%91n%20l%C3%A0m%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%C3%ADch%20th%C3%AC%20ph%E1%BA%A3i%20t%E1%BB%91n%20%C4%91%C6%B0%E1%BB%9Dng.md)
+- [Ngủ không cho đường](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Ng%E1%BB%A7%20kh%C3%B4ng%20cho%20%C4%91%C6%B0%E1%BB%9Dng.md)
+- [Thấy nói ra tốn đường](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Th%E1%BA%A5y%20n%C3%B3i%20ra%20t%E1%BB%91n%20%C4%91%C6%B0%E1%BB%9Dng.md)
+- [Vay đường để hoạt động](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Vay%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%91%E1%BB%83%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng.md)
+- [Có năng lượng chắc chắn sẽ hạnh phúc, nhưng có hạnh phúc chưa chắc có năng lượng](../../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/%C4%90%C6%B0%E1%BB%9Dng,%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng/C%C3%B3%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng%20ch%E1%BA%AFc%20ch%E1%BA%AFn%20s%E1%BA%BD%20h%E1%BA%A1nh%20ph%C3%BAc,%20nh%C6%B0ng%20c%C3%B3%20h%E1%BA%A1nh%20ph%C3%BAc%20ch%C6%B0a%20ch%E1%BA%AFc%20c%C3%B3%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng.md)
+- [Không thường xuyên được sạc năng lượng](../../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/%C4%90%C6%B0%E1%BB%9Dng,%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng/Kh%C3%B4ng%20th%C6%B0%E1%BB%9Dng%20xuy%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BA%A1c%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng.md)
+- [Việc nói không cần đường](../../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/%C4%90%C6%B0%E1%BB%9Dng,%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng/Vi%E1%BB%87c%20n%C3%B3i%20kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%9Dng.md)
+- [Việc suy nghĩ không cần đường, nhưng suy nghĩ logic thì cần đường](../../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/%C4%90%C6%B0%E1%BB%9Dng,%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng/Vi%E1%BB%87c%20suy%20ngh%C4%A9%20kh%C3%B4ng%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%9Dng,%20nh%C6%B0ng%20suy%20ngh%C4%A9%20logic%20th%C3%AC%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%9Dng.md)
+- [Đường là cách để lý giải vì sao mình được nhận rất nhiều sự quan tâm nhưng rồi vẫn thấy bị bỏ rơi](../../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/%C4%90%C6%B0%E1%BB%9Dng,%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng/%C4%90%C6%B0%E1%BB%9Dng%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20l%C3%BD%20gi%E1%BA%A3i%20v%C3%AC%20sao%20m%C3%ACnh%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%ADn%20r%E1%BA%A5t%20nhi%E1%BB%81u%20s%E1%BB%B1%20quan%20t%C3%A2m%20nh%C6%B0ng%20r%E1%BB%93i%20v%E1%BA%ABn%20th%E1%BA%A5y%20b%E1%BB%8B%20b%E1%BB%8F%20r%C6%A1i.md)
+- [Đường là thứ làm mình hạnh phúc và có năng lượng](../../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/%C4%90%C6%B0%E1%BB%9Dng,%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng/%C4%90%C6%B0%E1%BB%9Dng%20l%C3%A0%20th%E1%BB%A9%20l%C3%A0m%20m%C3%ACnh%20h%E1%BA%A1nh%20ph%C3%BAc%20v%C3%A0%20c%C3%B3%20n%C4%83ng%20l%C6%B0%E1%BB%A3ng.md)
+- [Iris không có cơ chế đường](../../../2%20M%E1%BB%91i%20quan%20h%E1%BB%87/B%E1%BA%A1n%20b%C3%A8/_VIP/Iris/Iris%20kh%C3%B4ng%20c%C3%B3%20c%C6%A1%20ch%E1%BA%BF%20%C4%91%C6%B0%E1%BB%9Dng.md)
 
-Câu hỏi :: trong tháng sinh nhật có thấy việc đi bộ tốn đường ko?
+Câu hỏi:: trong tháng sinh nhật có thấy việc đi bộ tốn đường ko?

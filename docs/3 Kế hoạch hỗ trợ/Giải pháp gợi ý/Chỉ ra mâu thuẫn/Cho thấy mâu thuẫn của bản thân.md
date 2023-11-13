@@ -33,15 +33,15 @@ share: true
 > Tự hào vì mình có con nhện I mà người khác không có không?
 > I có phải con người thật của cậu không?
 
-# Phương hướng :: 
+# Phương hướng:: 
 
 > Hỏi đến khi Thảo nhận ra mâu thuẫn giữa suy nghĩ và hành động của mình, và thừa nhận.
 
 > Giúp Thảo tập trung vào sự nhất quán thông qua các câu hỏi, giúp Thảo tập trung vào sự nhất quán giữa những giá trị, suy nghĩ và hành động của mình. Nếu Thảo nhận ra mâu thuẫn giữa những điều này, Thảo có thể bắt đầu thấy rõ hơn về mâu thuẫn của bản thân mình.
 
-> Giúp Thảo tìm các nguồn thông tin khác nhau: Khi Thảo chỉ tìm kiếm thông tin từ một nguồn duy nhất, Thảo có thể bị ảnh hưởng bởi những thông tin có hạn và không đầy đủ. Giúp Thảo tìm kiếm các nguồn thông tin khác nhau có thể giúp Thảo nhận ra mâu thuẫn của bản thân và cải thiện suy nghĩ của mình. (Nhưng lại vướng phải [[../../../1 Thông tin thân chủ/Quan điểm, thái độ, nguyên tắc sống, điều mình thấy hoặc cảm nhận/Phản tư/Ai cũng có thể và không thể dạy Thảo trừ sự phản tư của Thảo 20230325|Ai cũng có thể và không thể dạy Thảo trừ sự phản tư của Thảo 20230325]])
+> Giúp Thảo tìm các nguồn thông tin khác nhau: Khi Thảo chỉ tìm kiếm thông tin từ một nguồn duy nhất, Thảo có thể bị ảnh hưởng bởi những thông tin có hạn và không đầy đủ. Giúp Thảo tìm kiếm các nguồn thông tin khác nhau có thể giúp Thảo nhận ra mâu thuẫn của bản thân và cải thiện suy nghĩ của mình. (Nhưng lại vướng phải [Ai cũng có thể và không thể dạy Thảo trừ sự phản tư của Thảo 20230325](../../../1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Ph%E1%BA%A3n%20t%C6%B0/Ai%20c%C5%A9ng%20c%C3%B3%20th%E1%BB%83%20v%C3%A0%20kh%C3%B4ng%20th%E1%BB%83%20d%E1%BA%A1y%20Th%E1%BA%A3o%20tr%E1%BB%AB%20s%E1%BB%B1%20ph%E1%BA%A3n%20t%C6%B0%20c%E1%BB%A7a%20Th%E1%BA%A3o%2020230325.md))
 
-# Kế hoạch :: Thấy sự mâu thuẫn của bản thân:
+# Kế hoạch:: Thấy sự mâu thuẫn của bản thân:
 
 > **Bước 1: Tìm hiểu về tình huống mâu thuẫn**
 > Đầu tiên, mình sẽ trò chuyện với Thảo để hiểu rõ hơn về tình huống mâu thuẫn của T. R mình có thể tìm ra những yếu tố góp phần tạo ra mâu thuẫn, những suy nghĩ và hành vi của Thảo trong tình huống đó.
@@ -60,4 +60,4 @@ share: true
 
 > Bên cạnh đó, mình cũng sẽ khuyến khích Thảo thực hiện việc ghi chép lại quá trình giải quyết mâu thuẫn của mình, bao gồm những suy nghĩ và cảm xúc của mình trong quá trình đó. Việc ghi chép này sẽ giúp T có thể đối chiếu lại những thay đổi và tiến bộ của mình.
 
-Vấn đề phát sinh :: [[../../../1 Thông tin thân chủ/Quan điểm, thái độ, nguyên tắc sống, điều mình thấy hoặc cảm nhận/Châu Á không có tuyết|rất khó để cho thấy mâu thuẫn vì quan điểm khác người]]
+Vấn đề phát sinh:: [rất khó để cho thấy mâu thuẫn vì quan điểm khác người](../../../1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Ch%C3%A2u%20%C3%81%20kh%C3%B4ng%20c%C3%B3%20tuy%E1%BA%BFt.md)

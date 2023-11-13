@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-## Những từ Thảo dùng để miêu tả những trường hợp Thảo thấy không chấp nhận được nhưng nhiều người lại thấy bình thường :: 
+## Những từ Thảo dùng để miêu tả những trường hợp Thảo thấy không chấp nhận được nhưng nhiều người lại thấy bình thường:: 
 - Sai trái
 - Người xấu
 - Chủ quan

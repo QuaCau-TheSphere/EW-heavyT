@@ -4,7 +4,7 @@ tags:
   - kechuyen
 ---
 
-Khái niệm :: [[../../Từ điển/Tiêu cực/Thổ huyết|Thổ huyết]]
+Khái niệm:: [Thổ huyết](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Ti%C3%AAu%20c%E1%BB%B1c/Th%E1%BB%95%20huy%E1%BA%BFt.md)
 
 Nó cần người khác thổ huyết cho nó, nhưng sự thổ huyết đó phải là theo định nghĩa của nó chứ ko phải của người đang thổ huyết
 

@@ -11,14 +11,20 @@ In đứng là Thảo nói
 *Cậu muốn viết một câu chuyện về cuộc đời cậu ko?*
 Mún từ khi lớp 7 r.
 Tại sao anh hỏi em như vậy?
+
 *Vì tớ nghĩ cậu muốn làm*
+
 Ò. Em mún làm từ lâu r.
+
 *Vậy cậu có làm chưa?*
+
 Có nhg nó chỉ là những câu chuyện rời rạc và ko đâu vào đâu cả.
 Em cg ko có đủ đường để làm.
 Hơn nữa, có làm thì cg chả dám public, chỉ có thể cho những ng như anh xem thôi.
 Mà anh thì lại ko rảnh để xem.
+
 *Tớ muốn xem*
+
 Thật ra thì...
 Hồi lớp 7, idea của em là dùng hình ảnh con mèo đi lang thang từ khắp nhà này sang nhà khác để miêu tả cuộc đời của em.
 Kiểu là con mèo đi lang thang đó sẽ kể lại câu chuyện mà nó chứng kiến trong cuộc đời em.
@@ -54,9 +60,13 @@ Mẹ anh lên và anh hoảng nhg đã ko bỏ tay ra khỏi vai em.
 Đó là hướng em mún đi.
 Nhg khả năng vẽ của em cg có hạn => em cg cân nhắc.
 Nhg Mar nói là ảnh bik có bot hay AI j đó vẽ truyện tranh theo yêu cầu của mình lun, nhg mỗi năm phải tốn 1 số tiền kiểu vậy.
+
 *Tại sao cậu nghĩ đây là câu chuyện cuộc đời của cậu?*
+
 Vậy anh nghĩ đâu là câu chuyện cuộc đời của em?
+
 *Cậu hiểu câu chuyện cuộc đời là gì?*
+
 Là những câu chuyện lq tới bản thân.
 Và cuộc sống của mình.
 Từng bước phát triển.
@@ -67,7 +77,9 @@ Chap 3: gia đình tôi những năm đó ra sao.
 Chap 4: tôi đã bị bạo lực học đường ra sao.
 Chap 5: tôi đã bị Kame lừa lấy trinh ra sao, để r sau đó ng con trai mà tôi yêu là Guro chê việc tôi mất trinh ra sao.
 Chap 6: Guro khiến tôi tan nát cõi lòng khi bla bla...
+
 *Vậy tại sao những thứ như đảo hay là con mèo đi quanh phòng lại có trong câu chuyện cuộc đời?*
+
 Nó là 1 phương tiện để kể lại câu chuyện cuộc đời.
 Vừa là phương tiện.
 Vừa là 1 phần của câu chuyện lun.
@@ -80,8 +92,10 @@ Em cảm thấy eager mún phá vỡ 4 bức tường phòng thi và cg dc đi l
 Em mún trèo từ nhà này wa nhà khác.
 Khi wan sát, em thấy con mèo dừng lại và nhòm vào cửa sổ những ngôi nhà.
 Cứ như thể nó chứng kiến rất nhìu story khác nhao.
+
 *Uhm*
 *Vậy sao giờ ko viết như vậy nữa?*
+
 Cảm thấy cái đảo có lý hơn.
 Và thiết thực hơn.
 Anh có dg test em cái j ko?
@@ -149,15 +163,21 @@ Có một tia nắng ấm áp đã len lỏi vào màn đêm dày kịt, khoác 
 Và mèo con thích thế. Nó nằm lăn ra và cạ bộ lông mềm mại của mình vào một góc đường đen tối...
 Em viết chúng hồi năm lớp 7.
 R sau đó mới đăng fb (khi tìm lại dc quyển tập lớp 7).
+
 *cậu muốn những ai đọc được nó?*
+
 Tất cả mọi ng.
 Nó là văn thơ trong sáng healthy lành mạnh ko có j weird => public cg dc.
 Em ko mún public những thứ weird của em như rl tâm lý, khác thường, bất thường. Em càng ko mún public những j lq tới cơ thể và bộ phận sinh dục của em.
 Cảm ơn anh đã hỏi!
+
 *từ đoạn này trở xuống, có cái nào cậu muốn cho người khác đọc ko?*
+
 Ý anh là đoạn hội thoại của chúng ta hay sao?
+
 *ừ*
 *có thể biên tập lại*
+
 Đây là ý của em:
 • Willing cho ng khác đọc những j trong sáng healthy bth nhất của em, miễn họ ko copy của em r nói là của họ là dc
 • Khá là ko willing cho ng khác đọc những j dark hay tiêu cực xấu xí bệnh tật rl tâm lý của em chỉ vì em sợ họ sẽ attack mình, nếu họ ko attack thì willing share lun (nhg đợt đó anh đăng hơi bị nhìu ng attack em r)

@@ -4,8 +4,8 @@ tags:
   - tt-⚪_chưaxácnhận
 ---
 
-Khái niệm :: [[../../Từ điển/Trung tính/Đường|Đường]]
-Trạng thái :: #tt-⚪/chưaxácnhận
+Khái niệm:: [Đường](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/%C4%90%C6%B0%E1%BB%9Dng.md)
+Trạng thái:: #tt-⚪/chưaxácnhận
 
 Hệ quả của vấn đề này:
 
@@ -13,4 +13,5 @@ Hệ quả của vấn đề này:
 %%
 Giải pháp gợi ý:: 
 %%
+
 

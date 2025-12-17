@@ -16,4 +16,5 @@ share: true
 - [Iris tin rằng Thảo ở trong lồng là điều tốt](../../../2%20M%E1%BB%91i%20quan%20h%E1%BB%87/B%E1%BA%A1n%20b%C3%A8/_VIP/Iris/Iris%20tin%20r%E1%BA%B1ng%20Th%E1%BA%A3o%20%E1%BB%9F%20trong%20l%E1%BB%93ng%20l%C3%A0%20%C4%91i%E1%BB%81u%20t%E1%BB%91t.md)
 
 
+Câu hỏi:: Sự khác biệt giữ [Lồng, áp đặt, tự do](L%E1%BB%93ng,%20%C3%A1p%20%C4%91%E1%BA%B7t,%20t%E1%BB%B1%20do.md) và [Bắt ép, ép buộc, ra lệnh](../Ti%C3%AAu%20c%E1%BB%B1c/B%E1%BA%AFt%20%C3%A9p,%20%C3%A9p%20bu%E1%BB%99c,%20ra%20l%E1%BB%87nh.md) là gì?
 Câu hỏi:: Nếu ở trong lồng là để an toàn, thì tại sao cậu lại không muốn bị gò ép cơ thể? Cơ thể ở trong cái lồng thì nó sẽ an toàn đúng không? Việc không được đi vệ sinh cũng là để cậu được an toàn. Cậu phải hạnh phúc vì mình không được đi vệ sinh chứ?

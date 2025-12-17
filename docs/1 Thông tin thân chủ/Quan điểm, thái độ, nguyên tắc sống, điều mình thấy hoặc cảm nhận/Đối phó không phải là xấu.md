@@ -3,7 +3,6 @@ share: true
 tags:
   - kechuyen
 ---
-
 Khái niệm:: [Đối phó](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Ti%C3%AAu%20c%E1%BB%B1c/%C4%90%E1%BB%91i%20ph%C3%B3.md)
 Mar từng rất buồn khi tui bảo ảnh đối phó. Nhưng với tui, đối phó không có nghĩa nặng. Giống như giáo viên dạy, nếu học trò tự hiểu và muốn học, thì chúng sẽ tự làm mà không cần phải sai bảo. Nhưng nếu học trò không muốn học, bị bắt ép phải học mà không hiểu gì cả, thì chúng sẽ học vẹt, giống tui hồi xưa. Vậy thì học vẹt chính là đối phó.
 

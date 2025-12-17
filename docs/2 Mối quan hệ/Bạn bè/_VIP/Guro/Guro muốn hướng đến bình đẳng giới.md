@@ -3,7 +3,6 @@ share: true
 tags:
   - tt-✅
 ---
-
 Lý do:: <% tp.file.cursor() %>
 Trạng thái:: #tt-✅
 

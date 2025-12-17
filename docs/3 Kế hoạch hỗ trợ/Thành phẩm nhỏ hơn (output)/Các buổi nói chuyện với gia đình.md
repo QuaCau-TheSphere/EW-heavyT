@@ -3,7 +3,6 @@ share: true
 tags:
   - file_thành-phẩm
 ---
-
 %%
 #file/thành-phẩm
 %%
@@ -17,8 +16,8 @@ Thành quả cần có::
 Thành quả hỗ trợ::
 
 Thành phẩm nhỏ hơn:
-- [Các buổi nói chuyện với Hat](./C%C3%A1c%20bu%E1%BB%95i%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20Hat.md)
-- [Nhóm hỗ trợ Thảo](./Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20Th%E1%BA%A3o.md)
-- [Vault HeavyT](./Vault%20HeavyT.md)
 - [Vault Pandora Box](./Vault%20Pandora%20Box.md)
+- [Vault HeavyT](./Vault%20HeavyT.md)
+- [Nhóm hỗ trợ Thảo](./Nh%C3%B3m%20h%E1%BB%97%20tr%E1%BB%A3%20Th%E1%BA%A3o.md)
+- [Các buổi nói chuyện với Hat](./C%C3%A1c%20bu%E1%BB%95i%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20Hat.md)
 

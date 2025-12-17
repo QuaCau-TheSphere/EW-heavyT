@@ -3,7 +3,6 @@ share: true
 tags:
   - file_danh-sách
 ---
-
 February 20, 2021 3:08 AM
 
 Tớ cảm động quá! Ko uổng công hwa tớ cố dừng panic mà ăn uống nghỉ ngơi. Dương sinh dương r. Tớ dg khóc. _ôm cậu_ Cảm ơn cậu vz Híu đã giúp tớ. Tớ phải cố gắng nhìu hơn nữa, ko để cậu vz Híu phải thất vọng. Tớ sẽ cố quên những lời anh Tuệ nói, và kiên quyết từ chối ko tin những lời đó, đánh nhao vz chúng. Dù anh Tuệ ko rút lại, cg khẳng định là ảnh ko sai. Trong hợp đồng, tớ cần cậu cấm tớ ko chủ động bị động nt cho anh Tuệ lun.

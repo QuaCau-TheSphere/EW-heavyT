@@ -4,7 +4,6 @@ tags:
   - file_thành-quả
   - đct
 ---
-
 %%
 #file/thành-quả
 %%

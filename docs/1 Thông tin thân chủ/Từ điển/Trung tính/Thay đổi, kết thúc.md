@@ -17,5 +17,7 @@ share: true
 - [Valar cứu rất nhiều ca tự tử, nhưng giờ rửa tay gác kiếm](../../../2%20M%E1%BB%91i%20quan%20h%E1%BB%87/B%E1%BA%A1n%20b%C3%A8/Valar%20Morghulis/Valar%20c%E1%BB%A9u%20r%E1%BA%A5t%20nhi%E1%BB%81u%20ca%20t%E1%BB%B1%20t%E1%BB%AD,%20nh%C6%B0ng%20gi%E1%BB%9D%20r%E1%BB%ADa%20tay%20g%C3%A1c%20ki%E1%BA%BFm.md)
 - [Những lần Thảo đã thấy mình sai](../../../Danh%20s%C3%A1ch/Nh%E1%BB%AFng%20l%E1%BA%A7n%20Th%E1%BA%A3o%20%C4%91%C3%A3%20th%E1%BA%A5y%20m%C3%ACnh%20sai.md)
 
+[❓Phụ thuộc vào Guro, nhưng Guro là người muốn thay đổi. Vậy thì nó nghĩ thế nào](./%E2%9D%93Ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20Guro,%20nh%C6%B0ng%20Guro%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20thay%20%C4%91%E1%BB%95i.%20V%E1%BA%ADy%20th%C3%AC%20n%C3%B3%20ngh%C4%A9%20th%E1%BA%BF%20n%C3%A0o.md)
 # Các câu hỏi
+- [❓Phụ thuộc vào Guro, nhưng Guro là người muốn thay đổi. Vậy thì nó nghĩ thế nào](./%E2%9D%93Ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20Guro,%20nh%C6%B0ng%20Guro%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20mu%E1%BB%91n%20thay%20%C4%91%E1%BB%95i.%20V%E1%BA%ADy%20th%C3%AC%20n%C3%B3%20ngh%C4%A9%20th%E1%BA%BF%20n%C3%A0o.md): \-
 

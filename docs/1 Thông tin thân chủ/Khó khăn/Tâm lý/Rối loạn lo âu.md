@@ -3,7 +3,6 @@ share: true
 alias: rối loạn lo lắng
 ---
 Lý do:: [Ba có rối loạn lo lắng](../../../2%20M%E1%BB%91i%20quan%20h%E1%BB%87/Gia%20%C4%91%C3%ACnh/Ba/Ba%20c%C3%B3%20r%E1%BB%91i%20lo%E1%BA%A1n%20lo%20l%E1%BA%AFng.md)
-Lý do:: [Tự kỷ](../T%E1%BB%B1%20k%E1%BB%B7/index.md)
 
 
 > [!info ] Khái niệm:: 

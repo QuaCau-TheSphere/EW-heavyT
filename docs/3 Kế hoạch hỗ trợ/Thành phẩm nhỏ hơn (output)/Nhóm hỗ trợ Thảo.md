@@ -3,7 +3,6 @@ share: true
 tags:
   - file_thành-phẩm
 ---
-
 %%
 #file/thành-phẩm
 %%

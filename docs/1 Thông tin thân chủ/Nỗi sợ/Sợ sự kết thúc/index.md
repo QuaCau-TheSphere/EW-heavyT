@@ -3,16 +3,15 @@ Alias: death anxiety
 share: true
 tags:
   - kechuyen
-  - tt-⚪_chưaxácnhận
 ---
-
 Khái niệm:: [Thay đổi, kết thúc](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Thay%20%C4%91%E1%BB%95i,%20k%E1%BA%BFt%20th%C3%BAc.md)
 Lý do:: 
-
+[❓Sự sợ sự kết thúc có liên quan gì đến tự kỉ ko](./%E2%9D%93S%E1%BB%B1%20s%E1%BB%A3%20s%E1%BB%B1%20k%E1%BA%BFt%20th%C3%BAc%20c%C3%B3%20li%C3%AAn%20quan%20g%C3%AC%20%C4%91%E1%BA%BFn%20t%E1%BB%B1%20k%E1%BB%89%20ko.md) 
 Hệ quả của vấn đề này:
 - [Sợ gặp người lạ](../X%C3%A3%20h%E1%BB%99i/S%E1%BB%A3%20g%E1%BA%B7p%20ng%C6%B0%E1%BB%9Di%20l%E1%BA%A1.md)
 - [Nếu sự hoàn hảo đi kèm với sự kết thúc nào đó thì không muốn](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%E1%BA%BFu%20s%E1%BB%B1%20ho%C3%A0n%20h%E1%BA%A3o%20%C4%91i%20k%C3%A8m%20v%E1%BB%9Bi%20s%E1%BB%B1%20k%E1%BA%BFt%20th%C3%BAc%20n%C3%A0o%20%C4%91%C3%B3%20th%C3%AC%20kh%C3%B4ng%20mu%E1%BB%91n.md)
 - [Nếu thay đổi thì phải là thêm chứ không được bớt](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%E1%BA%BFu%20thay%20%C4%91%E1%BB%95i%20th%C3%AC%20ph%E1%BA%A3i%20l%C3%A0%20th%C3%AAm%20ch%E1%BB%A9%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%9Bt.md)
+- [Giữ lại đồ vật cũ](../../H%C3%A0nh%20vi/S%E1%BB%A3%20s%E1%BB%B1%20k%E1%BA%BFt%20th%C3%BAc/Gi%E1%BB%AF%20l%E1%BA%A1i%20%C4%91%E1%BB%93%20v%E1%BA%ADt%20c%C5%A9.md)
 
 
 
@@ -278,19 +277,5 @@ Cậu có bik trong SoCf (plan tương lai của tớ), tớ chia ra thứ mấy
 
 #kechuyen
 
-
-
-
-Trạng thái:: #tt-⚪/chưaxácnhận
-
-Hệ quả của vấn đề này:
-- [Sợ gặp người lạ](../X%C3%A3%20h%E1%BB%99i/S%E1%BB%A3%20g%E1%BA%B7p%20ng%C6%B0%E1%BB%9Di%20l%E1%BA%A1.md)
-- [Nếu sự hoàn hảo đi kèm với sự kết thúc nào đó thì không muốn](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%E1%BA%BFu%20s%E1%BB%B1%20ho%C3%A0n%20h%E1%BA%A3o%20%C4%91i%20k%C3%A8m%20v%E1%BB%9Bi%20s%E1%BB%B1%20k%E1%BA%BFt%20th%C3%BAc%20n%C3%A0o%20%C4%91%C3%B3%20th%C3%AC%20kh%C3%B4ng%20mu%E1%BB%91n.md)
-- [Nếu thay đổi thì phải là thêm chứ không được bớt](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%E1%BA%BFu%20thay%20%C4%91%E1%BB%95i%20th%C3%AC%20ph%E1%BA%A3i%20l%C3%A0%20th%C3%AAm%20ch%E1%BB%A9%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20b%E1%BB%9Bt.md)
-
-
-%%
-Giải pháp gợi ý:: 
-%%
 
 

@@ -1,11 +1,11 @@
 ---
 share: true
 ---
-Họ tên:: Nguyễn Hữu Lộc
-Giới:: Nam, 0903850094
-Email:: loc1988qw@gmail.com
+Họ tên:: 
+Giới:: Nam, 
+Email:: 
 Ngày sinh:: 25/6
-Website/blog/Facebook:: [Uto El](https://www.facebook.com/utoelqw)
+Website/blog/Facebook:: 
 Nơi ở:: Bình Dương
 Công việc:: Quả Cầu ; ONB ; Kinh doanh tự do
 Mối quan hệ:: Bạn bè (thân)

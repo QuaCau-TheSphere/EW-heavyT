@@ -1,5 +1,5 @@
 ---
-Nội dung: True
+Nội dung: true
 share: true
 ---
 Hoạt động:: [Tổ chức những buổi chia sẻ về bản thân](T%E1%BB%95%20ch%E1%BB%A9c%20nh%E1%BB%AFng%20bu%E1%BB%95i%20chia%20s%E1%BA%BB%20v%E1%BB%81%20b%E1%BA%A3n%20th%C3%A2n.md)

@@ -3,7 +3,6 @@ share: true
 tags:
   - kechuyen
 ---
-
 > [!info ] Khái niệm
 > **Đa nhân cách (DID - Dissociative Identity Disorder)** là một rối loạn tâm lý hiếm gặp, trong đó một người có nhiều nhân cách khác nhau và không nhận ra sự tồn tại của các nhân cách khác nhau. Mỗi nhân cách có thể có tên, sở thích, kỹ năng và trải nghiệm cuộc sống khác nhau. Các nhân cách thường xuất hiện ở các thời điểm khác nhau và thường không nhận ra sự tồn tại của nhau. Người bệnh có thể đổi giữa các nhân cách của họ một cách tự động hoặc do tác động từ các yếu tố bên ngoài. 
 > 

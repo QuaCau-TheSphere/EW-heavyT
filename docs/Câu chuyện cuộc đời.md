@@ -3,6 +3,12 @@ share: true
 created: 2023-09-05T16:17
 updated: 2023-11-12T16:59
 ---
+Có thể bắt đầu bằng chat, nhưng sau đó cần phải thêm mô tả:
+- Những quan sát (VD: gõ rồi xoá) 
+- Suy nghĩ nội tâm
+
+Hôm sau tập trung vào từng chương
+
 *In nghiêng là Nhật nói*
 In đứng là Thảo nói
 

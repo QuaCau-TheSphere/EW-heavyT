@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Lý do:: 
+Lý do:: [Mọi người đều bận](../../../3%20K%E1%BA%BF%20ho%E1%BA%A1ch%20h%E1%BB%97%20tr%E1%BB%A3/%C4%90i%E1%BB%83m%20m%E1%BA%A1nh,%20%C4%91i%E1%BB%83m%20y%E1%BA%BFu,%20th%C3%A1ch%20th%E1%BB%A9c/%C4%90i%E1%BB%83m%20y%E1%BA%BFu/M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%81u%20b%E1%BA%ADn.md)
 [Sự yếu đuối cần sự kiên nhẫn và sẵn sàng vô hạn](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/S%E1%BB%B1%20y%E1%BA%BFu%20%C4%91u%E1%BB%91i%20c%E1%BA%A7n%20s%E1%BB%B1%20ki%C3%AAn%20nh%E1%BA%ABn%20v%C3%A0%20s%E1%BA%B5n%20s%C3%A0ng%20v%C3%B4%20h%E1%BA%A1n.md)
 Hệ quả của vấn đề này:
 - [Khi nghĩ cho người khác thì bị phũ](../Khi%20ngh%C4%A9%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20th%C3%AC%20b%E1%BB%8B%20ph%C5%A9.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Khái niệm:: [Phản tư](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ph%E1%BA%A3n%20t%C6%B0.md), [Thay đổi, kết thúc](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Thay%20%C4%91%E1%BB%95i,%20k%E1%BA%BFt%20th%C3%BAc.md), [Ngẫu nhiên](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ng%E1%BA%ABu%20nhi%C3%AAn.md)
+Khái niệm:: [Phản tư](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ph%E1%BA%A3n%20t%C6%B0.md), [Thay đổi, kết thúc](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Thay%20%C4%91%E1%BB%95i,%20k%E1%BA%BFt%20th%C3%BAc.md), [Ngẫu nhiên](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ng%E1%BA%ABu%20nhi%C3%AAn.md), [Hợp lý](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/H%E1%BB%A3p%20l%C3%BD.md)
 Lý do:: 
 
 Hệ quả của vấn đề này:
@@ -19,4 +19,5 @@ Giải pháp gợi ý::
 - [Phản tư](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ph%E1%BA%A3n%20t%C6%B0.md): \-
 - [Thay đổi, kết thúc](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Thay%20%C4%91%E1%BB%95i,%20k%E1%BA%BFt%20th%C3%BAc.md): \-
 - [Ngẫu nhiên](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ng%E1%BA%ABu%20nhi%C3%AAn.md): cỏ 4 lá
+- [Hợp lý](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/H%E1%BB%A3p%20l%C3%BD.md): \-
 

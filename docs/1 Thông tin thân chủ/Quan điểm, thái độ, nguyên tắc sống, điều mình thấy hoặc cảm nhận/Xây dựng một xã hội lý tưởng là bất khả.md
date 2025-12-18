@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-Khái niệm:: [Hoàn hảo](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Ho%C3%A0n%20h%E1%BA%A3o.md)
+Khái niệm:: [Hoàn hảo](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/Ho%C3%A0n%20h%E1%BA%A3o.md)
 Lý do:: <% tp.file.cursor() %>
 
 Hệ quả của vấn đề này:

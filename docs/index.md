@@ -25,7 +25,7 @@ Nội dung:
 -   [Những chủ đề Thảo thích và không thích](./1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/S%E1%BB%9F%20th%C3%ADch/Nh%E1%BB%AFng%20ch%E1%BB%A7%20%C4%91%E1%BB%81%20Th%E1%BA%A3o%20th%C3%ADch%20v%C3%A0%20kh%C3%B4ng%20th%C3%ADch.md)
 -   [Những điều phát sinh sau khi gặp Cueball](./Danh%20s%C3%A1ch/Nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20ph%C3%A1t%20sinh%20sau%20khi%20g%E1%BA%B7p%20Cueball.md)
 
-2.  [⭐ Thế giới quan](./1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/%E2%AD%90%20Th%E1%BA%BF%20gi%E1%BB%9Bi%20quan.md)
+2.  [⭐ Thế giới quan](./Danh%20s%C3%A1ch/%E2%AD%90%20Th%E1%BA%BF%20gi%E1%BB%9Bi%20quan.md)
 3.  Ý nghĩa của một số thứ quan trọng với Thảo
 - [Lấy cái tên Meo Clover để nhắc nhở mạng sống rất đáng quý](./1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Khao%20kh%C3%A1t%20s%E1%BB%91ng%20t%C3%ADch%20c%E1%BB%B1c/L%E1%BA%A5y%20c%C3%A1i%20t%C3%AAn%20Meo%20Clover%20%C4%91%E1%BB%83%20nh%E1%BA%AFc%20nh%E1%BB%9F%20m%E1%BA%A1ng%20s%E1%BB%91ng%20r%E1%BA%A5t%20%C4%91%C3%A1ng%20qu%C3%BD.md)
 - [Chankillo là một nơi giam giữ những người mình yêu và hành hạ người mình ghét](./1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/Chankillo%20l%C3%A0%20m%E1%BB%99t%20n%C6%A1i%20giam%20gi%E1%BB%AF%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20m%C3%ACnh%20y%C3%AAu%20v%C3%A0%20h%C3%A0nh%20h%E1%BA%A1%20ng%C6%B0%E1%BB%9Di%20m%C3%ACnh%20gh%C3%A9t.md)

@@ -2,7 +2,7 @@
 share: true
 ---
 Khái niệm:: [Đánh](../../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Ti%C3%AAu%20c%E1%BB%B1c/%C4%90%C3%A1nh.md)
-Liên quan:: [Khó tập trung vào một chuyện](../Th%E1%BA%A7n%20kinh,%20nh%E1%BA%ADn%20th%E1%BB%A9c/Kh%C3%B3%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%E1%BB%99t%20chuy%E1%BB%87n.md)
+Liên quan:: [Khó tập trung vào một chuyện, dễ bị sao nhãng](../Th%E1%BA%A7n%20kinh,%20nh%E1%BA%ADn%20th%E1%BB%A9c/Kh%C3%B3%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%E1%BB%99t%20chuy%E1%BB%87n,%20d%E1%BB%85%20b%E1%BB%8B%20sao%20nh%C3%A3ng.md)
 
 Rule đường:: Nếu đủ đường, có thể dùng VR để dán mặt người mình ghét vào => Xã stress. Nếu ko đủ đường thì chỉ có thể nằm thụ động chấp nhận mọi thứ.
 

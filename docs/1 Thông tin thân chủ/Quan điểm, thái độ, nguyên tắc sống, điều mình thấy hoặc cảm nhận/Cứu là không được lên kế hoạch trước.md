@@ -3,7 +3,6 @@ share: true
 tags:
   - tt-⚪_chưaxácnhận
 ---
-
 Khái niệm:: [Cứu](../T%E1%BB%AB%20%C4%91i%E1%BB%83n/Trung%20t%C3%ADnh/C%E1%BB%A9u.md)
 Lý do:: 
 Trạng thái:: #tt-⚪/chưaxácnhận

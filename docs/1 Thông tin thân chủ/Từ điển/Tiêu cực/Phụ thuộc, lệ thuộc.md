@@ -1,0 +1,10 @@
+---
+share: true
+---
+- [Cần ở cạnh người khác](../../Kh%C3%B3%20kh%C4%83n/T%C3%A2m%20l%C3%BD/C%E1%BA%A7n%20%E1%BB%9F%20c%E1%BA%A1nh%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
+- [Mọi thứ trong thế giới này đều phụ thuộc lẫn nhau](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/M%E1%BB%8Di%20th%E1%BB%A9%20trong%20th%E1%BA%BF%20gi%E1%BB%9Bi%20n%C3%A0y%20%C4%91%E1%BB%81u%20ph%E1%BB%A5%20thu%E1%BB%99c%20l%E1%BA%ABn%20nhau.md)
+- [Nếu ai tin rằng mình không phải cây dây leo là đang không tôn trọng con người thật của mình](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%E1%BA%BFu%20ai%20tin%20r%E1%BA%B1ng%20m%C3%ACnh%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%A2y%20d%C3%A2y%20leo%20l%C3%A0%20%C4%91ang%20kh%C3%B4ng%20t%C3%B4n%20tr%E1%BB%8Dng%20con%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%ADt%20c%E1%BB%A7a%20m%C3%ACnh.md)
+- [Phụ thuộc là xinh đẹp](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Ph%E1%BB%A5%20thu%E1%BB%99c/Ph%E1%BB%A5%20thu%E1%BB%99c%20l%C3%A0%20xinh%20%C4%91%E1%BA%B9p.md)
+
+
+Tin rằng mình là cây dây leo, chỉ có thể nương tựa vĩnh viễn vào người khác để phát triển, giống như một người bị tiểu đường thì phải dùng thuốc vĩnh viễn. [Nếu ai tin rằng mình không phải cây dây leo là đang không tôn trọng con người thật của mình](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/N%E1%BA%BFu%20ai%20tin%20r%E1%BA%B1ng%20m%C3%ACnh%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%C3%A2y%20d%C3%A2y%20leo%20l%C3%A0%20%C4%91ang%20kh%C3%B4ng%20t%C3%B4n%20tr%E1%BB%8Dng%20con%20ng%C6%B0%E1%BB%9Di%20th%E1%BA%ADt%20c%E1%BB%A7a%20m%C3%ACnh.md)

@@ -3,7 +3,6 @@ share: true
 tags:
   - kechuyen
 ---
-
 Nếu Thảo là người nghèo lòng tin và rất khó để tin, thì Hat là người nghèo lòng tốt, rất khó để tốt và đã cố gắng để tốt rất nhiều lần. 
 
 Khanh:

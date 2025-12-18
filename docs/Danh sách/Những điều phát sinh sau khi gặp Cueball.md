@@ -2,7 +2,7 @@
 share: true
 ---
 # [Guro](../2%20M%E1%BB%91i%20quan%20h%E1%BB%87/B%E1%BA%A1n%20b%C3%A8/_VIP/Guro/index.md)
-- [Phụ thuộc](../1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/T%E1%BB%AB%20%C4%91i%E1%BB%83n/Ti%C3%AAu%20c%E1%BB%B1c/Ph%E1%BB%A5%20thu%E1%BB%99c.md)
+- [Phụ thuộc, lệ thuộc](../1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/T%E1%BB%AB%20%C4%91i%E1%BB%83n/Ti%C3%AAu%20c%E1%BB%B1c/Ph%E1%BB%A5%20thu%E1%BB%99c,%20l%E1%BB%87%20thu%E1%BB%99c.md)
 - Gia tăng [niềm tin](../1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/H%C3%A0nh%20vi/%C4%90i%E1%BB%81u%20mu%E1%BB%91n%20l%C3%A0m%20cho%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c/Th%C6%B0%20g%E1%BB%ADi%20Guro%20%F0%9F%94%B5%E2%9A%AA%2020210214.md)
 - Gia tăng [Uống cồn](../1%20Th%C3%B4ng%20tin%20th%C3%A2n%20ch%E1%BB%A7/H%C3%A0nh%20vi/C%C3%B4ng%20b%E1%BB%91%20s%E1%BB%B1%20t%E1%BB%B1%20h%E1%BA%A1i,%20%C4%91e%20d%E1%BB%8Da/U%E1%BB%91ng%20c%E1%BB%93n.md)
 - Thường xuyên self-harm

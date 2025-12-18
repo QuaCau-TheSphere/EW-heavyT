@@ -3,7 +3,6 @@ share: true
 tags:
   - đct_🔥
 ---
-
 Lý do:: 
 
 Hệ quả của vấn đề này:

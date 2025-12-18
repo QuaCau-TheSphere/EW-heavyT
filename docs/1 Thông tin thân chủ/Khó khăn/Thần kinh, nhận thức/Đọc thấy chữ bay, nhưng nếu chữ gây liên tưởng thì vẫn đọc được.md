@@ -1,6 +1,9 @@
 ---
 share: true
 ---
+Lý do:: [Khó tập trung vào một chuyện, dễ bị sao nhãng](./Kh%C3%B3%20t%E1%BA%ADp%20trung%20v%C3%A0o%20m%E1%BB%99t%20chuy%E1%BB%87n,%20d%E1%BB%85%20b%E1%BB%8B%20sao%20nh%C3%A3ng.md)
+Lý do:: [Không thể tiếp thu tiếp nếu có một thắc mắc không giải thích được](./Kh%C3%B4ng%20th%E1%BB%83%20ti%E1%BA%BFp%20thu%20ti%E1%BA%BFp%20n%E1%BA%BFu%20c%C3%B3%20m%E1%BB%99t%20th%E1%BA%AFc%20m%E1%BA%AFc%20kh%C3%B4ng%20gi%E1%BA%A3i%20th%C3%ADch%20%C4%91%C6%B0%E1%BB%A3c.md)
+
 Hệ quả của vấn đề này:
 
 

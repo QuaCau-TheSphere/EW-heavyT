@@ -3,7 +3,6 @@ share: true
 tags:
   - tt-⚪_chưaxácnhận
 ---
-
 ## Rối loạn hoài nghi (PPD - Paranoid Personality Disorder) là một loại rối loạn tâm thần, trong đó người bệnh có xu hướng nghi ngờ mọi người xung quanh đang cố ý làm hại hoặc gây nguy hiểm đối với mình 
 dù không có bằng chứng cụ thể. **Người bệnh có thể dựa vào những từ ngữ và khái niệm trong suy nghĩ của người khác để tìm ra dấu hiệu hoặc bằng chứng của sự đe dọa**. Các triệu chứng khác bao gồm lo lắng, căng thẳng, dễ bị kích động và khó tin tưởng người khác. Rối loạn hoài nghi thường được liên kết với chứng lo âu và rối loạn tâm thần khác.
 

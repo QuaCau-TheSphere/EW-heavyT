@@ -26,7 +26,7 @@ Giải pháp gợi ý::
 - [Thấy nói ra nhu cầu cũng sẽ không được đáp ứng](../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Th%E1%BA%A5y%20n%C3%B3i%20ra%20nhu%20c%E1%BA%A7u%20c%C5%A9ng%20s%E1%BA%BD%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%A1p%20%E1%BB%A9ng.md): \-
 - [Sợ bị nói là ích kỷ](./S%E1%BB%A3%20b%E1%BB%8B%20n%C3%B3i%20l%C3%A0%20%C3%ADch%20k%E1%BB%B7.md): \-
 - [Thấy nói ra tốn đường](../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Th%E1%BA%A5y%20n%C3%B3i%20ra%20t%E1%BB%91n%20%C4%91%C6%B0%E1%BB%9Dng.md): \-
-- [Thấy mình là rác](../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/C%E1%BA%A3m%20nh%E1%BA%ADn/Th%E1%BA%A5y%20m%C3%ACnh%20l%C3%A0%20r%C3%A1c.md): rác và khuyết tật có gì khác nhau không?
+- [Thấy mình là rác](../Sync%20v%E1%BB%9Bi%20vault%20ch%C3%ADnh/C%E1%BA%A3m%20nh%E1%BA%ADn/Th%E1%BA%A5y%20m%C3%ACnh%20l%C3%A0%20r%C3%A1c.md): [❓rác và khuyết tật có gì khác nhau không](%E2%9D%93r%C3%A1c%20v%C3%A0%20khuy%E1%BA%BFt%20t%E1%BA%ADt%20c%C3%B3%20g%C3%AC%20kh%C3%A1c%20nhau%20kh%C3%B4ng.md)
 - [Không trả lời câu hỏi](./Kh%C3%B4ng%20tr%E1%BA%A3%20l%E1%BB%9Di%20c%C3%A2u%20h%E1%BB%8Fi.md): \-
 - [Chỉ gợi ý cái mình muốn mà không nói thẳng](./Ch%E1%BB%89%20g%E1%BB%A3i%20%C3%BD%20c%C3%A1i%20m%C3%ACnh%20mu%E1%BB%91n%20m%C3%A0%20kh%C3%B4ng%20n%C3%B3i%20th%E1%BA%B3ng.md): \-
 

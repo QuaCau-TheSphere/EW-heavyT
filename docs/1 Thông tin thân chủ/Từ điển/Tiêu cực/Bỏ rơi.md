@@ -9,6 +9,6 @@ share: true
 - [Quan tâm](../T%C3%ADch%20c%E1%BB%B1c/Quan%20t%C3%A2m.md)
 
 
-Câu hỏi:: [Sợ bị bỏ rơi](../../N%E1%BB%97i%20s%E1%BB%A3/S%E1%BB%A3%20s%E1%BB%B1%20k%E1%BA%BFt%20th%C3%BAc/S%E1%BB%A3%20b%E1%BB%8B%20b%E1%BB%8F%20r%C6%A1i.md) và [Phụ thuộc](./Ph%E1%BB%A5%20thu%E1%BB%99c.md) có gì khác nhau?
-
+Câu hỏi:: [Sợ bị bỏ rơi](../../N%E1%BB%97i%20s%E1%BB%A3/S%E1%BB%A3%20s%E1%BB%B1%20k%E1%BA%BFt%20th%C3%BAc/S%E1%BB%A3%20b%E1%BB%8B%20b%E1%BB%8F%20r%C6%A1i.md) và [Phụ thuộc, lệ thuộc](./Ph%E1%BB%A5%20thu%E1%BB%99c,%20l%E1%BB%87%20thu%E1%BB%99c.md) có gì khác nhau?
+[Không tin có công việc đột xuất](Kh%C3%B4ng%20tin%20c%C3%B3%20c%C3%B4ng%20vi%E1%BB%87c%20%C4%91%E1%BB%99t%20xu%E1%BA%A5t.md)
 Giải pháp gợi ý:: [Quan tâm](../T%C3%ADch%20c%E1%BB%B1c/Quan%20t%C3%A2m.md)

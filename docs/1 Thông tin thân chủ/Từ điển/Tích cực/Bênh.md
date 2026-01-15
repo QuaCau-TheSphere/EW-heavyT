@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-- [Bênh là để có được sự công bằng](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/B%C3%AAnh%20l%C3%A0%20%C4%91%E1%BB%83%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20c%C3%B4ng%20b%E1%BA%B1ng.md)
 - [Bênh là bảo vệ dù cho người được bênh sai](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/B%C3%AAnh%20l%C3%A0%20b%E1%BA%A3o%20v%E1%BB%87%20d%C3%B9%20cho%20ng%C6%B0%E1%BB%9Di%20%C4%91%C6%B0%E1%BB%A3c%20b%C3%AAnh%20sai.md)
+- [Bênh là để có được sự công bằng](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/B%C3%AAnh%20l%C3%A0%20%C4%91%E1%BB%83%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%B1%20c%C3%B4ng%20b%E1%BA%B1ng.md)
 - [Sự phản tư trong Thảo không đi theo hướng tốt, mà là ngược lại với điều họ được bênh, theo quan điểm của Thảo](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Ph%E1%BA%A3n%20t%C6%B0/S%E1%BB%B1%20ph%E1%BA%A3n%20t%C6%B0%20trong%20Th%E1%BA%A3o%20kh%C3%B4ng%20%C4%91i%20theo%20h%C6%B0%E1%BB%9Bng%20t%E1%BB%91t,%20m%C3%A0%20l%C3%A0%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i%20v%E1%BB%9Bi%20%C4%91i%E1%BB%81u%20h%E1%BB%8D%20%C4%91%C6%B0%E1%BB%A3c%20b%C3%AAnh,%20theo%20quan%20%C4%91i%E1%BB%83m%20c%E1%BB%A7a%20Th%E1%BA%A3o.md)
 

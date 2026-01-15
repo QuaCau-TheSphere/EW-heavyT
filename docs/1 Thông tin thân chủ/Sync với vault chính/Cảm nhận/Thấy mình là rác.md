@@ -9,10 +9,10 @@ Lý do:: [Không thường xuyên được sạc năng lượng](../%C4%90%C6%B0
 Lý do:: [Ăn xin rồi mà vẫn không được](./%C4%82n%20xin%20r%E1%BB%93i%20m%C3%A0%20v%E1%BA%ABn%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c.md)
 
 Hệ quả của vấn đề này:
+- [Không nói ra nhu cầu của mình](../../H%C3%A0nh%20vi/Kh%C3%B4ng%20n%C3%B3i%20ra%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh.md)
 - [Suy nghĩ tự động (automatic thought) là người ta ghét](../../Kh%C3%B3%20kh%C4%83n/T%C3%A2m%20l%C3%BD/Suy%20ngh%C4%A9%20t%E1%BB%B1%20%C4%91%E1%BB%99ng%20(automatic%20thought)%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20ta%20gh%C3%A9t.md)
 - [Chấp nhận mình vô đạo đức, nhưng không chấp nhận người khác vô đạo đức](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/Ch%E1%BA%A5p%20nh%E1%BA%ADn%20m%C3%ACnh%20v%C3%B4%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c,%20nh%C6%B0ng%20kh%C3%B4ng%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c%20v%C3%B4%20%C4%91%E1%BA%A1o%20%C4%91%E1%BB%A9c.md)
 - [Cần được cấp phép mới được quyền hạnh phúc](../../Quan%20%C4%91i%E1%BB%83m,%20th%C3%A1i%20%C4%91%E1%BB%99,%20nguy%C3%AAn%20t%E1%BA%AFc%20s%E1%BB%91ng,%20%C4%91i%E1%BB%81u%20m%C3%ACnh%20th%E1%BA%A5y%20ho%E1%BA%B7c%20c%E1%BA%A3m%20nh%E1%BA%ADn/C%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20c%E1%BA%A5p%20ph%C3%A9p%20m%E1%BB%9Bi%20%C4%91%C6%B0%E1%BB%A3c%20quy%E1%BB%81n%20h%E1%BA%A1nh%20ph%C3%BAc.md)
-- [Không nói ra nhu cầu của mình](../../H%C3%A0nh%20vi/Kh%C3%B4ng%20n%C3%B3i%20ra%20nhu%20c%E1%BA%A7u%20c%E1%BB%A7a%20m%C3%ACnh.md)
 
 
 [Tin rằng mình là người què](./Tin%20r%E1%BA%B1ng%20m%C3%ACnh%20l%C3%A0%20ng%C6%B0%E1%BB%9Di%20qu%C3%A8.md) 
